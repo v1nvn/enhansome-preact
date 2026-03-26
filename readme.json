@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-25T04:01:13Z",
+            "last_commit": "2026-03-26T03:01:46Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 79329
+            "stars": 79361
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2025-02-13T03:23:53Z",
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9877
+            "stars": 9876
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-24T19:38:08Z",
+            "last_commit": "2026-03-26T03:05:57Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 89510
+            "stars": 89519
           }
         }
       ],
@@ -285,7 +285,7 @@
             "last_commit": "2024-07-29T18:35:53Z",
             "owner": "preactjs",
             "repo": "preact-router",
-            "stars": 1053
+            "stars": 1054
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-03-16T11:13:22Z",
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7785
+            "stars": 7787
           }
         }
       ],
@@ -826,10 +826,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-24T21:56:51Z",
+            "last_commit": "2026-03-26T00:31:02Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8754
+            "stars": 8753
           }
         },
         {
@@ -977,7 +977,7 @@
             "last_commit": "2026-02-26T07:17:24Z",
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8945
+            "stars": 8949
           }
         },
         {
@@ -1016,7 +1016,7 @@
             "last_commit": "2026-03-24T16:30:22Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7186
+            "stars": 7187
           }
         },
         {
@@ -1060,7 +1060,7 @@
             "last_commit": "2026-03-24T08:08:38Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21075
+            "stars": 21080
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2019-04-30T12:16:58Z",
             "owner": "developit",
             "repo": "preact-todomvc",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -1463,10 +1463,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-25T03:21:01Z",
+            "last_commit": "2026-03-25T17:40:18Z",
             "owner": "chinchang",
             "repo": "web-maker",
-            "stars": 2678
+            "stars": 2679
           }
         },
         {
@@ -1585,7 +1585,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-24T18:42:49Z",
+            "last_commit": "2026-03-25T19:17:42Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
             "stars": 3039
@@ -1604,10 +1604,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-24T23:10:00Z",
+            "last_commit": "2026-03-25T22:13:22Z",
             "owner": "facebook",
             "repo": "react",
-            "stars": 244160
+            "stars": 244202
           }
         },
         {
@@ -1669,7 +1669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-25T04:15:52.645Z",
+    "last_updated": "2026-03-26T04:30:09.313Z",
     "original_repository": "preactjs/awesome-preact",
     "source_repository": "v1nvn/enhansome-preact",
     "source_repository_description": null,
