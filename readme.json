@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T02:12:54Z",
+            "last_commit": "2026-04-01T19:08:01Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 79478
+            "stars": 79494
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T02:19:07Z",
+            "last_commit": "2026-04-01T18:24:51Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 89590
+            "stars": 89595
           }
         }
       ],
@@ -311,7 +311,7 @@
             "last_commit": "2026-03-16T11:13:22Z",
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7794
+            "stars": 7797
           }
         }
       ],
@@ -826,10 +826,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-31T15:16:49Z",
+            "last_commit": "2026-04-01T22:52:34Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8762
+            "stars": 8765
           }
         },
         {
@@ -974,7 +974,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-31T18:37:38Z",
+            "last_commit": "2026-04-01T18:38:52Z",
             "owner": "urql-graphql",
             "repo": "urql",
             "stars": 8949
@@ -1016,7 +1016,7 @@
             "last_commit": "2026-03-31T21:21:27Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7196
+            "stars": 7201
           }
         },
         {
@@ -1042,7 +1042,7 @@
             "last_commit": "2026-01-29T08:05:12Z",
             "owner": "Marcisbee",
             "repo": "exome",
-            "stars": 280
+            "stars": 279
           }
         },
         {
@@ -1057,10 +1057,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-26T21:02:40Z",
+            "last_commit": "2026-04-01T23:10:48Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21092
+            "stars": 21094
           }
         },
         {
@@ -1492,7 +1492,7 @@
             "last_commit": "2024-03-25T20:59:27Z",
             "owner": "idoco",
             "repo": "intergram",
-            "stars": 1418
+            "stars": 1417
           }
         },
         {
@@ -1544,7 +1544,7 @@
             "last_commit": "2023-03-29T13:58:04Z",
             "owner": "PuruVJ",
             "repo": "macos-preact",
-            "stars": 1035
+            "stars": 1036
           }
         },
         {
@@ -1601,7 +1601,7 @@
             "last_commit": "2026-03-26T14:24:08Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3039
+            "stars": 3038
           }
         }
       ],
@@ -1620,7 +1620,7 @@
             "last_commit": "2026-03-31T23:01:58Z",
             "owner": "facebook",
             "repo": "react",
-            "stars": 244292
+            "stars": 244318
           }
         },
         {
@@ -1633,7 +1633,7 @@
             "last_commit": "2026-02-14T13:01:20Z",
             "owner": "infernojs",
             "repo": "inferno",
-            "stars": 16412
+            "stars": 16413
           }
         },
         {
@@ -1682,7 +1682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:44:42.502Z",
+    "last_updated": "2026-04-02T04:26:38.122Z",
     "original_repository": "preactjs/awesome-preact",
     "source_repository": "v1nvn/enhansome-preact",
     "source_repository_description": null,
