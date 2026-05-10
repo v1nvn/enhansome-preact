@@ -26,7 +26,7 @@
             "last_commit": "2026-05-08T08:31:33Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 80473
+            "stars": 80491
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T19:33:34Z",
+            "last_commit": "2026-05-09T11:53:43Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 89871
+            "stars": 89875
           }
         }
       ],
@@ -826,10 +826,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T02:16:39Z",
+            "last_commit": "2026-05-10T02:03:33Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8829
+            "stars": 8830
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2026-04-30T02:45:53Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7345
+            "stars": 7347
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2024-08-10T14:06:49Z",
             "owner": "feross",
             "repo": "bitmidi.com",
-            "stars": 610
+            "stars": 611
           }
         },
         {
@@ -1489,7 +1489,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-08T20:35:52Z",
+            "last_commit": "2026-05-09T09:09:07Z",
             "owner": "chinchang",
             "repo": "web-maker",
             "stars": 2690
@@ -1630,10 +1630,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-08T08:03:33Z",
+            "last_commit": "2026-05-09T13:58:23Z",
             "owner": "facebook",
             "repo": "react",
-            "stars": 244882
+            "stars": 244904
           }
         },
         {
@@ -1659,7 +1659,7 @@
             "last_commit": "2023-03-27T06:49:28Z",
             "owner": "alibaba",
             "repo": "rax",
-            "stars": 8038
+            "stars": 8037
           }
         },
         {
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:18:11.586Z",
+    "last_updated": "2026-05-10T05:33:39.052Z",
     "original_repository": "preactjs/awesome-preact",
     "source_repository": "v1nvn/enhansome-preact",
     "source_repository_description": null,
