@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T21:57:10Z",
+            "last_commit": "2026-05-13T01:01:16Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 80549
+            "stars": 80566
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2025-02-13T03:23:53Z",
             "owner": "timarney",
             "repo": "react-app-rewired",
-            "stars": 9854
+            "stars": 9855
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T20:37:23Z",
+            "last_commit": "2026-05-12T21:03:46Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 89888
+            "stars": 89896
           }
         }
       ],
@@ -311,7 +311,20 @@
             "last_commit": "2026-03-16T11:13:22Z",
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7822
+            "stars": 7825
+          }
+        },
+        {
+          "children": [],
+          "description": "A tiny client side universal file-based router with  support.",
+          "title": "Ufbr",
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-05-09T22:54:45Z",
+            "owner": "zakarialaoui10",
+            "repo": "ufbr",
+            "stars": 19
           }
         }
       ],
@@ -826,10 +839,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T21:29:16Z",
+            "last_commit": "2026-05-12T20:37:23Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8830
+            "stars": 8829
           }
         },
         {
@@ -916,6 +929,19 @@
             "repo": "kamod-ui",
             "stars": 2
           }
+        },
+        {
+          "children": [],
+          "description": "A reusable Preact-based filter builder UI component with AND/OR boolean connectors .",
+          "title": "Preact Filter Builder",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-11T10:17:19Z",
+            "owner": "dimidd",
+            "repo": "preact-filter-builder",
+            "stars": 0
+          }
         }
       ],
       "title": "Components"
@@ -990,7 +1016,7 @@
             "last_commit": "2026-04-15T03:03:48Z",
             "owner": "urql-graphql",
             "repo": "urql",
-            "stars": 8947
+            "stars": 8946
           }
         },
         {
@@ -1029,7 +1055,7 @@
             "last_commit": "2026-04-30T02:45:53Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7350
+            "stars": 7356
           }
         },
         {
@@ -1070,10 +1096,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-06T01:03:56Z",
+            "last_commit": "2026-05-12T23:50:51Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21152
+            "stars": 21154
           }
         },
         {
@@ -1489,7 +1515,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-10T09:31:43Z",
+            "last_commit": "2026-05-12T20:02:57Z",
             "owner": "chinchang",
             "repo": "web-maker",
             "stars": 2691
@@ -1575,7 +1601,7 @@
             "last_commit": "2023-08-21T09:33:47Z",
             "owner": "PiyushSuthar",
             "repo": "Windows-11-Web",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -1614,7 +1640,7 @@
             "last_commit": "2026-05-11T15:37:58Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3054
+            "stars": 3055
           }
         }
       ],
@@ -1630,10 +1656,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-12T04:35:31Z",
+            "last_commit": "2026-05-12T16:44:34Z",
             "owner": "facebook",
             "repo": "react",
-            "stars": 244964
+            "stars": 244992
           }
         },
         {
@@ -1646,7 +1672,7 @@
             "last_commit": "2026-04-07T13:07:29Z",
             "owner": "infernojs",
             "repo": "inferno",
-            "stars": 16415
+            "stars": 16417
           }
         },
         {
@@ -1659,7 +1685,7 @@
             "last_commit": "2023-03-27T06:49:28Z",
             "owner": "alibaba",
             "repo": "rax",
-            "stars": 8039
+            "stars": 8038
           }
         },
         {
@@ -1695,7 +1721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:34:48.596Z",
+    "last_updated": "2026-05-13T05:44:19.780Z",
     "original_repository": "preactjs/awesome-preact",
     "source_repository": "v1nvn/enhansome-preact",
     "source_repository_description": null,
