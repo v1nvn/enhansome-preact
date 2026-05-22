@@ -13,7 +13,7 @@
             "last_commit": "2024-03-27T18:12:14Z",
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4677
+            "stars": 4676
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-21T06:00:59Z",
+            "last_commit": "2026-05-21T18:04:26Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 80743
+            "stars": 80758
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-21T05:43:29Z",
+            "last_commit": "2026-05-22T04:47:40Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90018
+            "stars": 90043
           }
         }
       ],
@@ -308,7 +308,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-18T19:06:56Z",
+            "last_commit": "2026-05-21T08:50:47Z",
             "owner": "molefrog",
             "repo": "wouter",
             "stars": 7834
@@ -392,7 +392,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-20T04:54:07Z",
+            "last_commit": "2026-05-21T06:56:56Z",
             "owner": "preactjs",
             "repo": "preact-render-to-string",
             "stars": 719
@@ -839,7 +839,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-20T22:24:32Z",
+            "last_commit": "2026-05-22T02:06:54Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
             "stars": 8836
@@ -972,7 +972,7 @@
             "last_commit": "2021-06-07T10:00:27Z",
             "owner": "developit",
             "repo": "unistore",
-            "stars": 2852
+            "stars": 2851
           }
         },
         {
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-04-30T02:45:53Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7382
+            "stars": 7387
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-05-20T00:07:14Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21168
+            "stars": 21171
           }
         },
         {
@@ -1489,7 +1489,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-15T02:13:53Z",
+            "last_commit": "2026-05-22T05:47:04Z",
             "owner": "jpodwys",
             "repo": "preact-journal",
             "stars": 37
@@ -1505,7 +1505,7 @@
             "last_commit": "2026-04-15T08:08:46Z",
             "owner": "GoogleChromeLabs",
             "repo": "proxx",
-            "stars": 1357
+            "stars": 1358
           }
         },
         {
@@ -1515,7 +1515,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-21T05:13:10Z",
+            "last_commit": "2026-05-21T08:23:30Z",
             "owner": "chinchang",
             "repo": "web-maker",
             "stars": 2689
@@ -1656,10 +1656,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-21T05:04:49Z",
+            "last_commit": "2026-05-22T05:31:57Z",
             "owner": "facebook",
             "repo": "react",
-            "stars": 245153
+            "stars": 245176
           }
         },
         {
@@ -1685,7 +1685,7 @@
             "last_commit": "2023-03-27T06:49:28Z",
             "owner": "alibaba",
             "repo": "rax",
-            "stars": 8037
+            "stars": 8038
           }
         },
         {
@@ -1721,7 +1721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-21T06:05:31.732Z",
+    "last_updated": "2026-05-22T06:01:47.950Z",
     "original_repository": "preactjs/awesome-preact",
     "source_repository": "v1nvn/enhansome-preact",
     "source_repository_description": null,
