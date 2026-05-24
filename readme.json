@@ -26,7 +26,7 @@
             "last_commit": "2026-05-22T10:10:59Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 80774
+            "stars": 80792
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-22T16:32:55Z",
+            "last_commit": "2026-05-23T08:29:09Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90061
+            "stars": 90069
           }
         }
       ],
@@ -311,7 +311,7 @@
             "last_commit": "2026-05-21T08:50:47Z",
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7835
+            "stars": 7836
           }
         },
         {
@@ -839,7 +839,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-22T18:59:37Z",
+            "last_commit": "2026-05-24T01:12:26Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
             "stars": 8838
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-04-30T02:45:53Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7390
+            "stars": 7391
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-05-20T00:07:14Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21171
+            "stars": 21172
           }
         },
         {
@@ -1515,7 +1515,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-21T08:23:30Z",
+            "last_commit": "2026-05-23T14:40:10Z",
             "owner": "chinchang",
             "repo": "web-maker",
             "stars": 2689
@@ -1656,10 +1656,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-22T05:31:57Z",
+            "last_commit": "2026-05-23T07:19:16Z",
             "owner": "facebook",
             "repo": "react",
-            "stars": 245190
+            "stars": 245227
           }
         },
         {
@@ -1669,7 +1669,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-07T13:07:29Z",
+            "last_commit": "2026-05-23T20:28:49Z",
             "owner": "infernojs",
             "repo": "inferno",
             "stars": 16418
@@ -1721,7 +1721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:36:20.576Z",
+    "last_updated": "2026-05-24T05:57:17.327Z",
     "original_repository": "preactjs/awesome-preact",
     "source_repository": "v1nvn/enhansome-preact",
     "source_repository_description": null,
