@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-26T02:20:05Z",
+            "last_commit": "2026-05-26T21:02:37Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 80823
+            "stars": 80816
           }
         },
         {
@@ -88,10 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-26T05:02:01Z",
+            "last_commit": "2026-05-27T05:19:51Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90076
+            "stars": 90090
           }
         }
       ],
@@ -227,7 +227,7 @@
             "last_commit": "2024-05-09T08:03:48Z",
             "owner": "Debdut",
             "repo": "browser-extension",
-            "stars": 691
+            "stars": 692
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-05-21T08:50:47Z",
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7837
+            "stars": 7836
           }
         },
         {
@@ -839,10 +839,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-25T23:57:33Z",
+            "last_commit": "2026-05-26T23:34:07Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8843
+            "stars": 8845
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2026-05-25T05:28:43Z",
             "owner": "kamod-ch",
             "repo": "kamod-ui",
-            "stars": 2
+            "stars": 3
           }
         },
         {
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-04-30T02:45:53Z",
             "owner": "nanostores",
             "repo": "nanostores",
-            "stars": 7397
+            "stars": 7400
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-05-20T00:07:14Z",
             "owner": "pmndrs",
             "repo": "jotai",
-            "stars": 21172
+            "stars": 21174
           }
         },
         {
@@ -1347,7 +1347,7 @@
             "last_commit": "2024-08-10T14:06:49Z",
             "owner": "feross",
             "repo": "bitmidi.com",
-            "stars": 610
+            "stars": 611
           }
         },
         {
@@ -1515,7 +1515,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-23T14:40:10Z",
+            "last_commit": "2026-05-27T00:13:37Z",
             "owner": "chinchang",
             "repo": "web-maker",
             "stars": 2689
@@ -1640,7 +1640,7 @@
             "last_commit": "2026-05-25T15:20:13Z",
             "owner": "GladysAssistant",
             "repo": "Gladys",
-            "stars": 3061
+            "stars": 3063
           }
         }
       ],
@@ -1656,10 +1656,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-23T07:19:16Z",
+            "last_commit": "2026-05-27T00:35:17Z",
             "owner": "facebook",
             "repo": "react",
-            "stars": 245283
+            "stars": 245284
           }
         },
         {
@@ -1669,10 +1669,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-26T00:14:59Z",
+            "last_commit": "2026-05-27T00:42:03Z",
             "owner": "infernojs",
             "repo": "inferno",
-            "stars": 16419
+            "stars": 16421
           }
         },
         {
@@ -1721,7 +1721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T06:02:16.230Z",
+    "last_updated": "2026-05-27T06:15:42.301Z",
     "original_repository": "preactjs/awesome-preact",
     "source_repository": "v1nvn/enhansome-preact",
     "source_repository_description": null,
